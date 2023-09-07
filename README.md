@@ -1,2 +1,3 @@
 James Doyle
-jamesJDoyle# git-lab
+jamesJDoyle
+CS 2400-110
